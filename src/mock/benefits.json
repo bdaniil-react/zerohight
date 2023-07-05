@@ -1,0 +1,88 @@
+{
+  "benefits": [
+    {
+      "image": "./design.png",
+      "title": "Bring design and engineering together",
+      "subtitle": "Create a single source of truth for all aspects of your design system, bringing together the tools your teams already love, and automating the workflow from design to code.",
+      "benefits": [
+        {
+          "id": "override",
+          "icon": "./override.svg",
+          "description":  "In-built integrations with Figma, Sketch, Adobe XD, Storybook, GitHub and loads more..."
+        },
+        {
+          "id": "token",
+          "icon": "./token.svg",
+          "description":  "Automated delivery from design to code via Design Tokens"
+        },
+        {
+          "id": "code",
+          "icon": "./code.svg",
+          "description":  "Import live components from multiple common frameworks, including React and Angular, and render them natively in your docs"
+        }
+      ],
+      "testimonial": {
+        "text": "There were lots of reasons why we ended up choosing zeroheight a couple of years back. A couple of really key benefits were the syncing between Figma and zeroheight, allowing us to have that true source of truth all in the same place. Building out the documentation requires no development resource, which means our teams can be much more efficient.",
+        "author": "Jason McCarthy, Lead UX Designer, Compare the Market"
+      },
+      "isReverse": false,
+      "backgroundImage": "/wave-small.svg"
+    },
+    {
+      "image": "./build.png",
+      "title": "Build and manage your design system – fast",
+      "subtitle": "Building and managing your design system documentation can feel like a daunting task. zeroheight provides you the tools to get your infrastructure up and running, and start proving value!",
+      "benefits": [
+        {
+          "id": "magic",
+          "icon": "./magic.svg",
+          "description":  "Ready-to-use templates to make sure your documentation has the right information architecture to get started"
+        },
+        {
+          "id": "file",
+          "icon": "./file.svg",
+          "description":  "Easy-to-use editor with customizable blocks, that allow you to build your docs as quick as writing a document"
+        },
+        {
+          "id": "enterprise",
+          "icon": "./enterprise.svg",
+          "description":  "Access to our in-house design system experts, and a thriving community that will give you the guidance to get your system to an A+ level"
+        }
+      ],
+      "testimonial": {
+        "text": "When you think about sustainability, the zeroheight approach is way smarter…and the benefit is all of the pages look the same. It’s very easy for me to update everything. So, when we had new branding, it took me half an hour to copy that to a dozen styleguides.",
+        "author": "Julien Vaniere, Design System Director, Sage"
+      },
+      "isReverse": true,
+      "backgroundImage": ""
+    },
+    {
+      "image": "./collaborate.png",
+      "title": "Collaboration and governance out of the box",
+      "subtitle": "A good design system is a system with governance built-in. We give you a helping hand by offering ways to gather feedback, as well as streamlining distribution",
+      "benefits": [
+        {
+          "id": "rocket",
+          "icon": "./rocket.svg",
+          "description":  "Version and manage your docs by creating releases for your design system"
+        },
+        {
+          "id": "comment",
+          "icon": "./comment.svg",
+          "description":  "Gather feedback directly in the editor with our commenting and review features, as well as gathering feedback directly from your users"
+        },
+        {
+          "id": "jigsaw-piece",
+          "icon": "./jigsaw-piece.svg",
+          "description":  "Manage multiple design systems within a central location, and sync elements across your styleguides"
+        }
+      ],
+      "testimonial": {
+        "text": "It gives us the same starting point and the same focus point in comparison to the old days when each time was designing differently…It helps us track things and make improvements all together.",
+        "author": "Chris Alexander, Director of Experience Design, Prudential"
+      },
+      "isReverse": false,
+      "backgroundImage": "/wave-large.svg"
+    }
+  ]
+}

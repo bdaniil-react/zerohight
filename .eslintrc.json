@@ -1,0 +1,15 @@
+{
+  "root": true,
+  "extends": [
+    "react-app",
+    "plugin:react-hooks/recommended",
+    "prettier"
+  ],
+  "rules": {
+    "no-shadow": "off",
+    "no-console": ["warn", { "allow": ["error"] }]
+  },
+  "globals": {
+    "JSX": "readonly"
+  }
+}
